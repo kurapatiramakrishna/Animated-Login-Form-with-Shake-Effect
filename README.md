@@ -1,2 +1,2 @@
-# login-form
-login form using html and css
+# Animated Login Form with Shake Effect
+This HTML file presents an animated login form with a shake effect for invalid input. It features input fields for username, email or phone, and password. The form showcases a responsive background image and utilizes CSS keyframes to create the shake effect upon invalid input. The design incorporates rounded edges, a subtle box-shadow, and appealing color combinations. This interactive login form can be used as a starting point for building more engaging user interfaces for login and registration processes.
